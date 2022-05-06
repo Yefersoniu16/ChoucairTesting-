@@ -1,0 +1,4 @@
+com/choucairtesting/runner/PageChoucairTesting.java
+ com.choucairtesting.runner.PageChoucairTesting
+com/choucairtesting/stepdefinitions/EmployeesSection.java
+ com.choucairtesting.stepdefinitions.EmployeesSection
